@@ -109,7 +109,17 @@ void irpair()
  
  ![310580582-055a6eb7-ce3e-43e4-b42f-9e224dfadf85](https://github.com/shahinjaffer07/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/147373815/ccfe2d17-ec3d-43d9-b747-914daa430375)
 
+
+
+
+
+
+
  ![310580596-6d74e01b-deb0-4cde-ba3b-89ef01d12a89](https://github.com/shahinjaffer07/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/147373815/a6718b18-b206-40bd-9342-46aa581ff79b)
+
+
+
+
 
  
 ## Result :
